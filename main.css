@@ -1,3 +1,5 @@
+@import url(//db.onlinewebfonts.com/c/0923ee644c97a87d70269aa80a6f1e79?family=The+Historia+Demo);
+
 /* Start global */
 *{
   margin: 0;
@@ -134,7 +136,7 @@ li {
 
 .nav-link:hover,
 .nav-link:focus {
-  background: linear-gradient(to top, #ffe838, #fd57bf );
+  background: linear-gradient(to top, black, white );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -163,7 +165,7 @@ li {
 }
 
 .bar {
-  background: linear-gradient(to right, #ffe838, #fd57bf);
+  background: linear-gradient(to right, black, white);
   width: 100%;
   height: 4px;
   border-radius: .8rem;
@@ -205,7 +207,7 @@ li {
 .landing-text h1{
   font-size: 15rem;
   font-family: 'The Historia Demo', sans-serif;
-  background: linear-gradient(to top, #ffe838, #fd57bf );
+  background: linear-gradient(to top, black, white );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   padding: 1rem;
